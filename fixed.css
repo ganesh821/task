@@ -1,0 +1,23 @@
+*
+{
+	margin:0;
+	padding: 0;
+}
+
+.main
+{
+	width: 100%;
+	background-color: yellow;
+	
+	height: 5000px;
+}
+
+h1
+{
+	width: 500px;
+	height: 100px;
+	background-color: red;
+	position: fixed;
+	bottom: 0;
+	right: 0;
+}
